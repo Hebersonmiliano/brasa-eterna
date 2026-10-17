@@ -1,5 +1,7 @@
 # Brasa Eterna
 
+![Brasa Eterna](capa.png)
+
 RPG de ação em pixel art no estilo Zelda clássico, feito em um único arquivo HTML/JavaScript.
 Sem instalação e sem build: abra `index.html` no navegador e jogue.
 
