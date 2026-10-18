@@ -43,6 +43,7 @@ descobrir de onde veio e que segredo guarda dentro de si.
 - 14 equipamentos visíveis no personagem, com 3 níveis de melhoria e joias encaixáveis
 - Faísca, a mascote, ataca sozinha e encontra passagens secretas
 - Cavernas secretas, trilha sonora gerada no navegador e salvamento automático
+- 24 conquistas com prêmios: gemas, joias e cachecóis novos para o Kael
 - Três níveis de dificuldade e dois finais
 
 ## Créditos
