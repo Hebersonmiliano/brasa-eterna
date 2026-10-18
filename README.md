@@ -22,6 +22,7 @@ descobrir de onde veio e que segredo guarda dentro de si.
 | 3. O Caçador de Cinzas | Caçador de Cinzas | Floresta queimada, Bosque Perdido e emboscada em ondas |
 | 4. O Guardião Traidor | Varek | Templo gelado com quatro provas elementais, em qualquer ordem |
 | 5. A Última Brasa | Morvane | Volta a Brasalume, fuga pela torre e escolha entre dois finais |
+| **Parte 2** — 6. O Deserto de Vidro | Colosso de Vidro | Espelhos de luz, dunas de vento, oásis com loja e pirâmide em descida |
 
 ## Controles
 
