@@ -23,7 +23,8 @@ descobrir de onde veio e que segredo guarda dentro de si.
 | 4. O Guardião Traidor | Varek | Templo gelado com quatro provas elementais, em qualquer ordem |
 | 5. A Última Brasa | Morvane | Volta a Brasalume, fuga pela torre e escolha entre dois finais |
 | **Parte 2** — 6. O Deserto de Vidro | Colosso de Vidro | Espelhos de luz, dunas de vento, oásis com loja e pirâmide em descida |
-| **Parte 2** — 7. Novos Horizontes | — | Mundo aberto com câmera, ciclo dia/noite, Vila Aurora (pousada, ferraria, mercearia, ancião), moradores, missões secundárias, mapa com névoa |
+
+A história continua em **[Brasa Eterna 2: Novos Horizontes](https://github.com/Hebersonmiliano/brasa-eterna-2)**, em mundo aberto.
 
 ## Controles
 
